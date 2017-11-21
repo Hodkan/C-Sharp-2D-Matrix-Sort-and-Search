@@ -1,0 +1,6 @@
+c:\users\p304320\documents\visual studio 2015\Projects\2DMatrixSortandSearch\2DMatrixSortandSearch\bin\Debug\2DMatrixSortandSearch.exe.config
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\2DMatrixSortandSearch\2DMatrixSortandSearch\bin\Debug\2DMatrixSortandSearch.exe
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\2DMatrixSortandSearch\2DMatrixSortandSearch\bin\Debug\2DMatrixSortandSearch.pdb
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\2DMatrixSortandSearch\2DMatrixSortandSearch\obj\Debug\2DMatrixSortandSearch.csprojResolveAssemblyReference.cache
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\2DMatrixSortandSearch\2DMatrixSortandSearch\obj\Debug\2DMatrixSortandSearch.exe
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\2DMatrixSortandSearch\2DMatrixSortandSearch\obj\Debug\2DMatrixSortandSearch.pdb
